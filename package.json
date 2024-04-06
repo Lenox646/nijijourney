@@ -21,6 +21,7 @@
     "url": "https://github.com/Ohio03/nijijourney"
   },
   "scripts": {
+    "start": "node index.js", // Add this line to define the start script
     "postinstall": "echo 'Thank you for installing @rehat666/nijijourney'"
   }
 }
